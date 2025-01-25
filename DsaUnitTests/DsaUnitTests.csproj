@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ArrayProblems\ArrayProblems.csproj" />
     <ProjectReference Include="..\Graphs\Graphs.csproj" />
   </ItemGroup>
 
