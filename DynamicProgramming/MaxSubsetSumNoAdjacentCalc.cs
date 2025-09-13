@@ -1,5 +1,5 @@
 ﻿namespace DynamicProgramming;
-public class DynamicProgrammingQuestions
+public class MaxSubsetSumNoAdjacentCalc
 {
     public static int MaxSubsetSumNoAdjacent(int[] array)
     {

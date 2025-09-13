@@ -11,7 +11,7 @@ public class MaxSubsetSumNoAdjacentTests
         int[] input = [75, 105, 120, 75, 90, 135];
 
         //Act
-        var result = DynamicProgrammingQuestions.MaxSubsetSumNoAdjacent(input);
+        var result = MaxSubsetSumNoAdjacentCalc.MaxSubsetSumNoAdjacent(input);
 
         //Assert
         result.Should().Be(330);
@@ -24,7 +24,7 @@ public class MaxSubsetSumNoAdjacentTests
         int[] input = [];
 
         //Act
-        var result = DynamicProgrammingQuestions.MaxSubsetSumNoAdjacent(input);
+        var result = MaxSubsetSumNoAdjacentCalc.MaxSubsetSumNoAdjacent(input);
 
         //Assert
         result.Should().Be(0);
