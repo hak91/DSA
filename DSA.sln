@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksAndQueues", "StacksAndQueues\StacksAndQueues.csproj", "{E05D0C0F-046B-4BF9-8FB3-CD880D5D7462}"
 EndProject
@@ -21,6 +21,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{A1F25FAB-141F-4BEC-A6F2-16CEE156579D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{A46C2756-B2FC-45D5-AAAD-3D822EFC5E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionProblems", "RecursionProblems\RecursionProblems.csproj", "{E64AE0C3-948B-497F-9559-6CB223C38F46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{A46C2756-B2FC-45D5-AAAD-3D822EFC5E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A46C2756-B2FC-45D5-AAAD-3D822EFC5E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A46C2756-B2FC-45D5-AAAD-3D822EFC5E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64AE0C3-948B-497F-9559-6CB223C38F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64AE0C3-948B-497F-9559-6CB223C38F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64AE0C3-948B-497F-9559-6CB223C38F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64AE0C3-948B-497F-9559-6CB223C38F46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
